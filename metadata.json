@@ -1,0 +1,7 @@
+{
+  "name": "AuraTrack - Clinical Precision Wellness & AI Food Scanner",
+  "description": "High-trust biometric telemetry, AI vision food scanning, metabolic budgeting, and precision nutrition tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
